@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">Software Developer at Insider</h3>
-:computer: Other Github Account **https://github.com/EnesKabakaya**
+:computer: Other Github Account https://github.com/EnesKabakaya
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
